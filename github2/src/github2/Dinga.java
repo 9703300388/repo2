@@ -1,6 +1,5 @@
 package github2;
 
-public class Dddd {
-	
+public class Dinga {
 
 }
